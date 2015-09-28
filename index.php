@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Индексная страница (front controller)</title>
 </head>
 <body>
 	<h1>Список всех записей в таблице</h1>
